@@ -1,0 +1,103 @@
+body
+{
+ height:750px;
+ background:url(../images/photography-of-roadway-during-dusk-1034662.jpg);
+background-position: center;
+ background-size:cover;
+ position:relative;
+}
+.AddTutor-Dark form {
+  background-color:#1e2833;
+  padding:25px;
+ padding-left: 50px;
+ padding-right: 50px;
+  border-radius:40px;
+  transform:translate(-50%, -50%);
+  position:absolute;
+  top:50%;
+  left:50%;
+  color:#B0B0B0;
+  background-color: rgba(30, 40, 51, 0.5);
+}
+.AddTutor-Dark .btn-primary {
+  background:#777;
+  padding:15px;
+  box-shadow:none;
+}
+.AllotTutor-Dark form
+{
+margin-top: 50px;
+  background-color:#1e2833;
+  padding:25px;
+ padding-left: 50px;
+ padding-right: 50px;
+  border-radius:40px;
+  transform:translate(-50%, -50%);
+  position:absolute;
+  top:50%;
+  left:50%;
+  color:#B0B0B0;
+  background-color: rgba(30, 40, 51, 0.7);
+    
+}
+.AllotTutor-Dark .btn-primary 
+{
+    background:#777;
+  padding:15px;
+  box-shadow:none;
+}
+.nav 
+{
+    font-size: 18px;
+   
+
+}
+.nav-pills .nav-link.active.nav-link {
+  background-color:#777;
+    color:white;
+    
+}
+.table
+{
+    
+    margin:auto;
+    margin-top: 10px;
+    width: auto;
+    text-align: center;
+    color: white;
+     background-color: rgba(30, 40, 51, 0.7);
+}
+.table .t
+{
+    text-align: center;
+     background-color: rgba(30, 40, 51, 1);
+   
+}
+.bb .btn-primary 
+{
+  background:#777;
+  padding:4px;
+box-shadow: none;
+    border:none;
+}
+.h2
+{
+    text-align: center;
+    padding: inherit;
+    margin-top: 5px;
+    color: white;
+    font-family: form;
+    font-size: 41px;
+    font: bold;
+}
+.back .btn-primary
+{
+    
+    width: 60px;
+     box-shadow: none;
+    margin: auto;
+    margin-top: 20px;
+   background:#777;
+  padding:inherit;
+      border:none;
+}
